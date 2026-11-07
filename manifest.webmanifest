@@ -1,0 +1,9 @@
+{
+  "name": "STUDY TIMER",
+  "short_name": "Study Timer",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "description": "シンプルな勉強時間ストップウォッチ"
+}
